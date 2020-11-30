@@ -35,7 +35,7 @@ int main()
     printf("\t\t\t *****************************\n\n");
     
     password();
-    char names[]="sonuyadav";//password
+    char names[]="Shrey";//password
     while(1)
     {
              int p=0;             
